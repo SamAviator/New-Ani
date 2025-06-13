@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(36, 36, 118);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.Warn {
+    font-family: fantasy;
+    color: white;
+}
+
+.Title {
+    font-size: 55px;
+    text-underline-position: below;
+    text-underline-offset: below;
+}
+
+.site1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    size: 400px;
+    background: transparent;
+    background-size: 1000px;
+}
+
+.button1 {
+    background: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.MainTitle {
+    font-size: 55px;
+    bottom: -5px;
+    height: 4px;
+    width: 100%;
+    left: 0;
+    background-color: azure;
+}
+
+.Button2 {
+    background: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.Button3 {
+    background: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
